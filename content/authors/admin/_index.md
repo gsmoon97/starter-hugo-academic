@@ -1,6 +1,6 @@
 ---
-avatar_filename: img_9490.jpeg
-bio: My research interests include large language model.
+avatar_filename: avatar.jpeg
+bio: ""
 interests:
   - Artificial Intelligence
   - Machine Learning Systems
@@ -41,4 +41,4 @@ first_name: Alice
 email: gsmoon97[at]u.nus.edu
 ---
 I am a research assistant at NUS Natural Language Processing Group, advised by [Professor Hwee Tou Ng](https://www.comp.nus.edu.sg/cs/people/nght/). I am interested in building practical, flexible, and high-performance software systems for emerging applications such as large language models.
-{style="text-align: justify;"}
+{style="text-align: left;"}
