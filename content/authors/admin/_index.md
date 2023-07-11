@@ -36,7 +36,7 @@ status:
 last_name: Wu
 role: Research Assistant
 highlight_name: true
-title: Geonsik Moon (문건식)
+title: Geonsik Moon
 first_name: Alice
 email: gsmoon97[at]u.nus.edu
 ---
